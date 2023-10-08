@@ -1,0 +1,34 @@
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:710px">
+	<tbody>
+		<tr>
+			<td colspan="2" rowspan="1" style="background-color:#0099ff; text-align:center; width:424px">Academic Qualifications</td>
+			<td rowspan="1" style="background-color:#0099ff; text-align:center; width:271px">Year Awarded</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="text-align:center">Bachelor of Engineering</td>
+			<td style="width:180px">The University of Cambridge</td>
+			<td style="width:271px">1999</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="background-color:#0099ff; text-align:center; width:456px">First Class Honours</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="text-align:center">Master Of Computer Science</td>
+			<td style="width:180px">The University of Tokyo</td>
+			<td style="width:271px">2006</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="background-color:#0099ff; text-align:center; width:456px">The Best Student Of The Year</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="text-align:center">Doctor of Medicine</td>
+			<td style="width:180px">The University of Singapore</td>
+			<td style="width:271px">2015</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="background-color:#0099ff; text-align:center; width:456px">The Best Thesis Award</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
